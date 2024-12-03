@@ -6,7 +6,7 @@ const VideoFrame = () => {
     <div
       className='relative w-full px-2 lg:px-[70px] bg-black/60'
       style={{
-        backgroundImage: "url('/assets/video-frame.png')",
+        backgroundImage: "url('/assets/video-frame-bg.svg')",
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',

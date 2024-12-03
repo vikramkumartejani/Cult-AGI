@@ -4,7 +4,7 @@ const Tokenomics = () => {
     return (
         <div id='tokenomics' className="w-full relative overflow-hidden bg-black isolate border-t border-[#404040] px-2 lg:px-[70px]">
             <div className="absolute top-0 left-1/2 transform -translate-x-1/2 w-full h-full -z-10">
-                <img src="/assets/bg.svg" alt="bg" className="w-full h-full object-cover" />
+                <img src="/assets/image 14.svg" alt="bg" className="w-full h-full object-cover" style={{backgroundPosition:'center', objectFit:'cover'}} />
                 <div className="absolute inset-0 bg-black opacity-20"></div>
             </div>
 
